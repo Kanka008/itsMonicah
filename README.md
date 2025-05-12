@@ -22,9 +22,9 @@ I'm a passionate Juniour Frontend developer with experience in HTML, CSS, Javasc
 
 ## Featured Projects 💻
 
-### [Portfolio]
+### Portfolio
 
-sage-paprenjak-ecbee5.netlify.app
+(sage-paprenjak-ecbee5.netlify.app)
 
 Portfolio is a  website built with HTML,CSS and Javascript. This project demonstrates my ability to bring to life whatever i had been learning for 3 months. 
 
@@ -32,7 +32,6 @@ Portfolio is a  website built with HTML,CSS and Javascript. This project demonst
 
 ## Get in Touch 📬
 
-- 
 - **[LinkedIn]**(https://www.linkedin.com/in/monicah-gacheru-0403a8260/)
 - **[Twitter]**(https://x.com/rug008)
 
