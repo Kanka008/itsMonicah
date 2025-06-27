@@ -35,4 +35,6 @@ Portfolio is a  website built with HTML,CSS and Javascript. This project demonst
 - **[LinkedIn]**(https://www.linkedin.com/in/monicah-gacheru-0403a8260/)
 - **[Twitter]**(https://x.com/rug008)
 
-
+## Welcome Squad at ALX
+It was such an honour for me to be part of ALx Welcome Squad for incoming students
+ https://www.canva.com/design/DAGqum6kOZE/FIq1LPUGK52rPegffAZAIQ/edit?utm_content=DAGqum6kOZE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
